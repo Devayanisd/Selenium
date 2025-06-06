@@ -6,7 +6,8 @@ public class BaseTest {
 		
 		//System.out.println("Hello World 2025");
 
-		String input = "DEVAYANISURESHSIDDIYA456";
+		String input = "DEVAYANISURESHSIDDIYAABC";
+		String output = "ABC";
 
 		input = input.toLowerCase();
 		System.out.println(input);
